@@ -1,0 +1,12 @@
+.ratings-table{
+  margin-top: 1em;
+}
+
+.ratings-stars{
+  text-align: right;
+  color: #38A5DB;
+}
+
+.ratings-label{
+  text-align: left;
+}
