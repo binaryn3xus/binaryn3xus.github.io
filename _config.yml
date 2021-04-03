@@ -88,6 +88,9 @@ author:
   location         : "USA"
   email            : #Nah, Im good.
   links:
+    - label: "Christian"
+      icon: "fas fa-fw fa-cross"
+      url: "https://en.wikipedia.org/wiki/Christianity"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://dotnetevolved.com/"
