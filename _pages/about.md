@@ -3,6 +3,12 @@ layout: splash
 permalink: /about/
 title: "About"
 ---
+<style>
+ul {
+    list-style-type: none;
+    margin-left: -1.5em;
+}
+</style>
 
 <!-- Your title -->
 ## Hi, I'm Joshua Garrison, a Developer 🚀 from the USA.
@@ -60,21 +66,8 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <img width="10%" src="https://www.vectorlogo.zone/logos/eclipse/eclipse-ar21.svg">
 </p>
 
-<!-- Your hits or visitors
-site: http://hits.dwyl.com or https://visitor-badge.glitch.me
-Both apis are in trouble due to the number of requests, if you know any other to register visitors, great
-
-<p align="center">
-  <img alt="HitCount" src="http://hits.dwyl.com/onimur/onimur.svg" />
-  <img alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=onimur.onimur" />
-  <img alt="ViewCount" src="https://views.whatilearened.today/views/github/onimur/onimur.svg" />
-</p>
--->
-
 ## Support me
-<!-- Your support, if you have it 
-I created these images, feel free to use them.
--->
+
 <p align="center">
   <a href="https://www.paypal.com/donate?hosted_button_id=AHUFVNYVW7CDG" target="_blank">
       <img width="18%" alt="Donate with Paypal" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/support-paypal.png"/>
@@ -86,7 +79,6 @@ I created these images, feel free to use them.
 
 ---
 
-<!-- Its main projects -->
 <p align="center">
   <a href="https://github.com/JoshuaGarrison27/Home-Assistant-Configuration">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JoshuaGarrison27&repo=Home-Assistant-Configuration" />
