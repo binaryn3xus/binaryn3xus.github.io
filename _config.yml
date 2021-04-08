@@ -1,5 +1,5 @@
-# theme                  : "minimal-mistakes-jekyll"
-remote_theme             : "mmistakes/minimal-mistakes"
+theme                    : "minimal-mistakes-jekyll"
+# remote_theme             : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
@@ -74,9 +74,11 @@ social:
 
 # Analytics
 analytics:
+  provider               : "google-gtag"
   google:
     tracking_id          : "UA-89951607-1"
-
+    anonymize_ip         : true #Default = true
+    
 
 # Site Author
 author:
