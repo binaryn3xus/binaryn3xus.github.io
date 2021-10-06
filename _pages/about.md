@@ -24,13 +24,13 @@ ul {
 <!-- Any image aligned to the right. Beware the width -->
 <img width="25%" align="right" valign="top" style="border-radius: 1em;" alt="Github" src="/assets/images/bio-photo.png" />
 
-- :house: I enjoy working on Home Automation using [Home Assistant](https://home-assistant.io);
-- :hearts: My favorite language is [C#/NET](https://docs.microsoft.com/en-us/dotnet/csharp/); 
-- :snake: I would like get better at using [Python](https://www.python.org/);
-- :movie_camera: I do live streams on development on my [Twitch Channel](https://www.twitch.tv/binarynexus);
-- :speech_balloon: Ask me about anything, I am happy to help;
-- :loudspeaker: Fun-Fact: I have a bachelors degree in computer sciences;
-- :postbox: How to reach me: Best way to reach me is when I stream on Twitch or you can find me on the [CodingBlocks Slack](https://www.codingblocks.net/slack/) under the username `BinaryNexus`;
+- :house: I enjoy working on Home Automation using [Home Assistant](https://home-assistant.io)
+- :hearts: My favorite language is [C#/NET](https://docs.microsoft.com/en-us/dotnet/csharp/)
+- :snake: I would like get better at using [Python](https://www.python.org/)
+<!-- - :movie_camera: I do live streams on development on my [Twitch Channel](https://www.twitch.tv/binarynexus) -->
+- :speech_balloon: Ask me about anything, I am happy to help
+- :loudspeaker: Fun-Fact: I have a bachelors degree in computer sciences
+- :postbox: How to reach me: You can find me on the [CodingBlocks Slack](https://www.codingblocks.net/slack/) under the username `BinaryNexus`
 
 **Languages and Tools:** 
 
