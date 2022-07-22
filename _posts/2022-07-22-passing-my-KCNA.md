@@ -1,6 +1,6 @@
 ---
 title: How I Passed My KCNA Exam
-date: '2022-07-22T11:48:11-0500'
+date: '2022-07-22T9:00:00-0500'
 categories:
 - General
 - Kubernetes
