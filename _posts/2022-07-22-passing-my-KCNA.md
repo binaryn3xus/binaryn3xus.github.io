@@ -21,9 +21,9 @@ The test is broken out into different domains and competences. At the time of th
 - Cloud Native Observability (8%)
 - Cloud Native Application Delivery (8%)
 
-You have 90 minutes to completed a multiple choice exam with 60 questions. Dont worry if you fail the first exam because you are given one retake. You have one year from the time you purchase the exam to take it.
+You have 90 minutes to complete a multiple choice exam with 60 questions. Don't worry if you fail the first exam because you are given one retake. You have one year from the time you purchase the exam to take it.
 
-My only complaint about certifications if the fact that they expire. This one expires after 3 years. Yes, I am aware that the technology changes rapidly. However, how much is it really going to change fundamentally in 3 years? That's a rant for another day I suppose.
+My only complaint about this certification is that it expires after 3 years. Yes, I am aware that the technology changes rapidly. However, how much is it really going to change fundamentally in 3 years? That's a rant for another day I suppose.
 
 ## Cost and Study Material
 
@@ -46,4 +46,4 @@ After going through this whole experience I want to give you some tips on what I
 
 ## Conclusion
 
-After I took the exam, I was certain that I had failed it. I was not confident in my answers and there were several that I just had to make educated guesses on. However, in the end, I scored 84% out of the required 75% or above requirement. I hope this short little article gives you a successful strategy for passing your KCNA exam. Good luck!
+After I took the exam, I was certain that I had failed it. I was not confident in my answers and there were several that I just had to make educated guesses on. In the end, I scored 84% out of the required 75% or above requirement. I hope this short little article gives you a successful strategy for passing your KCNA exam. Good luck!
