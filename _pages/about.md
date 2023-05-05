@@ -11,7 +11,7 @@ ul {
 </style>
 
 <!-- Your title -->
-## Hi, I'm Joshua Garrison, a Developer 🚀 from the USA.
+## Hi! I'm Joshua, a Developer 🚀 from the USA.
 
 {% assign github = site.author.links | where:"label", "GitHub" | first %}
 {% assign linkedin = site.author.links | where:"label", "LinkedIn" | first %}

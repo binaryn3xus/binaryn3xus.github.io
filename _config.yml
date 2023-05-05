@@ -7,7 +7,7 @@ locale                   : "en-US"
 title                    : ".Net Evolved"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Joshua Garrison"
+name                     : "Joshua"
 description              : "A development blog mostly based in the C# world, however it sometimes liked to venture into the Home Automation world as well!"
 url                      : "https://binaryn3xus.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -82,7 +82,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Joshua Garrison"
+  name             : "Joshua"
   avatar           : "/assets/images/bio-photo.png"
   bio              : "My name is Joshua and I have been coding for over 15 years. This blog is a way for me to share my thoughts and findings while on my coding adventures."
   location         : "USA"
