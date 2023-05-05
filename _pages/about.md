@@ -38,8 +38,8 @@ ul {
 You can use this api: https://github.com/anuraghazra/github-readme-stats
 -->
 <p>
-  <a href="https://github.com/joshuagarrison27">
-    <img width="55%" align="right" alt="Joshuagarrison27s github stats" src="https://github-readme-stats.vercel.app/api?username=joshuagarrison27&show_icons=true&hide_border=true" />
+  <a href="https://github.com/binaryn3xus">
+    <img width="55%" align="right" alt="binaryn3xus's github stats" src="https://github-readme-stats.vercel.app/api?username=binaryn3xus&show_icons=true&hide_border=true" />
   </a>
   
   <!-- Your languages and tools. Be careful with the alignment. 
@@ -80,13 +80,13 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 ---
 
 <p align="center">
-  <a href="https://github.com/JoshuaGarrison27/Home-Assistant-Configuration">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JoshuaGarrison27&repo=Home-Assistant-Configuration" />
+  <a href="https://github.com/binaryn3xus/Home-Assistant-Configuration">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=binaryn3xus&repo=Home-Assistant-Configuration" />
   </a>
-  <a href="https://github.com/JoshuaGarrison27/JoshuaGarrison27.github.io">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JoshuaGarrison27&repo=JoshuaGarrison27.github.io" />
+  <a href="https://github.com/binaryn3xus/binaryn3xus.github.io">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=binaryn3xus&repo=binaryn3xus.github.io" />
   </a>
-  <a href="https://github.com/JoshuaGarrison27/Motorized_MQTT_Blinds">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JoshuaGarrison27&repo=Motorized_MQTT_Blinds" />
+  <a href="https://github.com/binaryn3xus/Motorized_MQTT_Blinds">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=binaryn3xus&repo=Motorized_MQTT_Blinds" />
   </a>
 </p>

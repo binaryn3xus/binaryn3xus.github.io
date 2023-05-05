@@ -9,9 +9,9 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Joshua Garrison"
 description              : "A development blog mostly based in the C# world, however it sometimes liked to venture into the Home Automation world as well!"
-url                      : "https://JoshuaGarrison27.github.io"
+url                      : "https://binaryn3xus.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "JoshuaGarrison27/JoshuaGarrison27.github.io"
+repository               : "binaryn3xus/binaryn3xus.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/DNE_Logo_88x75.png"
 masthead_title           : ".Net Evolved"
@@ -99,10 +99,7 @@ author:
       url: "https://twitter.com/JoshuaGarrison7"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/JoshuaGarrison27"
-    - label: LinkedIn
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/joshuacgarrison"
+      url: "https://github.com/binaryn3xus"
     - label: Kubernetes Certified (KCNA)
       icon: "fab fa-fw fa-linux"
       url: "#"
@@ -115,10 +112,7 @@ footer:
       url: "https://twitter.com/JoshuaGarrison7"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/JoshuaGarrison27"
-    - label: LinkedIn
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/joshuacgarrison"
+      url: "https://github.com/binaryn3xus"
 
 
 # Reading Files
